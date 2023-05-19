@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/Ali-Sid/docofdev.github.io/'
+languageCode = 'en-us'
+title = 'The DocOfDev Blog'
+theme = "paper"
